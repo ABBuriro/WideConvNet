@@ -1,1 +1,2 @@
-# WideConvNet: a wide convolutional neural network for classification alcoholic EEG
+# WideConvNet: Wide Convolutional Neural Network applied to ERP-based classification of alcoholics
+
